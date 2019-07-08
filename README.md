@@ -21,34 +21,35 @@ Actualmente puede que la mayoría de nosotros no tengamos la necesidad o la posi
 
 ## 3. Objetivos del proyecto
 
-Crear una aplicación dirigida a usuarios que tienen un jardin o huerto urbano, en esta aplicación podrán tener un registro de las plantas que tienen y sus necesidades:  riego, iluminación, ambiente.  Podrán hacer una búsqueda de la planta y en caso de no encontrarla podrán agregar su propia información.Esta aplicación es adaptada para movil, esto debido a que es el dispositivo con el que contamos cotidianamente, así podremos acceder a la aplicación donde nos encontremos:  comprando una planta, asesorando a alguien sobre los cuidados de su planta, etc.
+Crear una aplicación dirigida a usuarios que tienen un jardin o huerto urbano, en esta aplicación podrán tener un registro de las plantas que tienen y sus necesidades:  riego, iluminación, ambiente.  Podrán hacer una búsqueda de la planta y en caso de no encontrarla podrán agregar su propia información.Esta aplicación es adaptada para movil, esto debido a que es el dispositivo con el que contamos cotidianamente, así podremos acceder a la aplicación donde nos encontremos:  comprando una planta, asesorando a alguien sobre los cuidados de su planta, etc. La aplicación permitirá registrar una hora y fecha para recibir recordatorios de eventos que debe realizar periodicamente en su jardín:  riego, mantenimiento, poda, siembra, etc. 
+
+
 
 ## 4. Objetivos de aprendizaje
 
--Crear una webApplication para movil
--Reforzar uso de React
--Reforzar uso de Firebase
--Conocer el concepto de progressive web app. 
+- Crear una webApplication para movil
+- Reforzar uso de React
+- Reforzar uso de Firebase
+- Implementación de notificaciones
+- Conocer el concepto de progressive web app. 
+
 
 ## 5. Consideraciones generales
 
 Este proyecto deberá ser resuelto de manera individual y ser desarrollado en React. Debe ser una SPA (Single Page Application) accesible desde el movil. 
--Debería abordar los principios de progressive web app. 
--El usuario debe poder ingresar, y generar una cuenta. 
--El usuario deberá poder buscar una planta por nombre, y si no encuentra su planta deberá poder agregarla llenando los campos correspondientes en el formulario, los campos a llenar serán para ingresar texto. 
+- Debería abordar los principios de progressive web app. 
+- El usuario debe poder ingresar, y generar una cuenta. 
+- El usuario deberá poder buscar una planta por nombre, y si no encuentra su planta deberá poder agregarla llenando los campos correspondientes en el formulario, los campos a llenar serán para ingresar texto. 
+- El usuario puede registrar horar y fecha en que desea recibir recordatorios para atender su jardín. 
 
 ## 6. Hacker Edition
 
 De lograr el desarrollo de los puntos anteriormente mencionados para completar el proyecto se podrá proceder a desarrollar la siguiente funcionalidad en la aplicación: 
 
-Que el usuario pueda registrar una hora y fecha para recibir recordatorios de la aplicación de eventos que debe realizar periodicamente en su jardín:  riego, mantenimiento, poda, siembra, etc. 
 
 
 ## 7. Entregable
 
-Proyecto disponible en Github Pages
-
- 
 
 
 
